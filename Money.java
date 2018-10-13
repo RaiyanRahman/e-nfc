@@ -1,5 +1,5 @@
 /**
- * Class containing transactional information. bla
+ * Class containing transactional information.
  */
 public class Money {
     private String senderID;
